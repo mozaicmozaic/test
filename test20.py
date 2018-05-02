@@ -3,7 +3,7 @@ from random import randint
 point=randint(0,100)#0~100の乱数
 #判定
 if point >=80 :
-    result="Aクラス"
+    result="gクラス"
 elif point>=60:
     result="Bクラス"
 elif point>=30:
